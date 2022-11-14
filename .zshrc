@@ -80,3 +80,10 @@ alias gsts='git stash show --text'
 alias gsta='git stash'
 alias gstp='git stash pop'
 alias gstd='git stash drop'
+
+
+#Terraform
+alias tf='terraform'
+alias tfp='terraform plan'
+alias tfa='terraform apply'
+alias tfi='terraform init'
